@@ -28,4 +28,4 @@ To use the structs and methods in this repository, clone the repository and dele
 #include "line.h"
 #include "plane.h"
 ```
-Now, any method in this C file can use the structs and methods in the header files. To see an exxmaple of this in action, see the file ```testing.c```.
+Now, any method in this C file can use the structs and methods in the header files. To see an exmaple of this in action, see the file ```testing.c```.
