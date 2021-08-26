@@ -9,11 +9,11 @@ This repository contains the header files for a variety of structs related to th
 | Vectors (vector.h) | Lines (line.h) | Planes (plane.h)|
 | ------------------- | ---------------- | ------- |
 | initialize a vector by its components (i, j, k) | initialize a line by a point on the line and a direction vector | initialize a plane in the format: Ax + By + Cz = D |
-| **cross product** | **find point of intersection between two lines** | determine whether a point is on the plane |
-| **dot product** | find distance between point and line | **find point of intersection between a line and a plane** |
-| add/subtract vectors | determine whether a point is on the line | **find line of intersection between two planes** |
+| cross product | find point of intersection between two lines | determine whether a point is on the plane |
+| dot product | find distance between point and line | find point of intersection between a line and a plane |
+| add/subtract vectors | determine whether a point is on the line | find line of intersection between two planes |
 | find vector magnitude |  | find distance from a point to a plane |
-| **vector normalization** |
+| vector normalization |
 | find angle between vectors |
 
 ----
