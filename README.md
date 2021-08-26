@@ -1,6 +1,6 @@
 # 3D Vector Library
 
-This repository contains the header files for a variety of structs related to the creation and maipulation of 3D vectors, lines and planes. The file ```testing.c``` contains some demo code that tests the functionality of the library.
+This repository contains the header files for a variety of structs and methods related to the creation and maipulation of 3D vectors, lines and planes. The file ```testing.c``` contains some demo code that tests the functionality of the library.
 
 ----
 
